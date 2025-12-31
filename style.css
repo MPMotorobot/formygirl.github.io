@@ -40,7 +40,7 @@ span{
     justify-content: center;
     width: 100px;
     height: 90px;
-    animation: beating 1s infinite ease-in-out;
+    /*animation: beating 1s infinite ease-in-out; */
 }
 .heart::before,
 .heart::after{
@@ -110,3 +110,4 @@ span{
         font-size: 90px;
     }
 }
+
